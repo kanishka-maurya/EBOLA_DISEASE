@@ -1,0 +1,16 @@
+tensorflow
+pandas
+numpy
+dvc
+matplotlib
+seaborn
+python-box==6.0.2
+pyYAML
+joblib
+Flask
+Flask-Cors
+setuptools
+plotly
+scikit-learn
+requests
+-e .
